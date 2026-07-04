@@ -35,10 +35,10 @@ button {
 }
 @media (width <= 700px) {
     #stopwatch{
-    font-size: 30px;
+    font-size: 90px;
     top:38%;
     } 
     #buttons{
-        left:42%
-        top:45%
+        left:40%
+        top:42%
 }
