@@ -33,9 +33,9 @@ button {
     display: inline;
     padding-left: 10px;
 }
-@media (width <= 500px) {
+@media (width <= 700px) {
     #stopwatch{
-    font-size: 90px;
+    font-size: 30px;
     top:38%;
     } 
     #buttons{
