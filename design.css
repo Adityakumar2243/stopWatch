@@ -20,6 +20,10 @@ button {
     left: 50%;
     transform: translate(-50%, -55%);
 }
+/* #stopwatch{
+    font-size: 70px;
+    top:35%;
+} */
 #buttons {
     position: absolute;
     top: 55%;
