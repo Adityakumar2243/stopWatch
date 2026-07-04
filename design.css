@@ -33,13 +33,17 @@ button {
     display: inline;
     padding-left: 10px;
 }
-@media (width <= 700px) {
+@media (width < 700px) {
     #stopwatch{
     font-size: 90px;
     top:38%;
     } 
     #buttons{
-        left:45%;
-        top:50%;
+        display:flex;
+        justify-content:center;
+        position: absolute;
+        top: 50%;
+        left: 45%;
+        transform: translate(-51.6%, -45%);
     }
 }
