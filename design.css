@@ -25,6 +25,8 @@ button {
     top:35%;
 } */
 #buttons {
+    display:flex;
+    justify-content:center;
     position: absolute;
     top: 55%;
     left: 48.4%;
